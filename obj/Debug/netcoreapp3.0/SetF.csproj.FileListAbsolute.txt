@@ -1,0 +1,11 @@
+E:\инф.безоп\Сеть Фейстеля\SetF\obj\Debug\netcoreapp3.0\SetF.csprojAssemblyReference.cache
+E:\инф.безоп\Сеть Фейстеля\SetF\obj\Debug\netcoreapp3.0\SetF.AssemblyInfoInputs.cache
+E:\инф.безоп\Сеть Фейстеля\SetF\obj\Debug\netcoreapp3.0\SetF.AssemblyInfo.cs
+E:\инф.безоп\Сеть Фейстеля\SetF\bin\Debug\netcoreapp3.0\SetF.exe
+E:\инф.безоп\Сеть Фейстеля\SetF\bin\Debug\netcoreapp3.0\SetF.deps.json
+E:\инф.безоп\Сеть Фейстеля\SetF\bin\Debug\netcoreapp3.0\SetF.runtimeconfig.json
+E:\инф.безоп\Сеть Фейстеля\SetF\bin\Debug\netcoreapp3.0\SetF.runtimeconfig.dev.json
+E:\инф.безоп\Сеть Фейстеля\SetF\bin\Debug\netcoreapp3.0\SetF.dll
+E:\инф.безоп\Сеть Фейстеля\SetF\bin\Debug\netcoreapp3.0\SetF.pdb
+E:\инф.безоп\Сеть Фейстеля\SetF\obj\Debug\netcoreapp3.0\SetF.dll
+E:\инф.безоп\Сеть Фейстеля\SetF\obj\Debug\netcoreapp3.0\SetF.pdb
